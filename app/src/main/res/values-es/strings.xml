@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Exam1EV</string>
+    <string name="SMS">Mensaje</string>
+    <string name="date">datos</string>
+    <string name="call">llamar</string>
+    <string name="name">nombre</string>
+    <string name="e_mail">correo</string>
+    <string name="phone">telefono</string>
+    <string name="send">enviar</string>
+    <string name="names">Nombre</string>
+
+</resources>

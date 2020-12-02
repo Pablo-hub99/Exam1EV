@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Exam1EV</string>
+    <string name="SMS">Message</string>
+    <string name="date">Date</string>
+    <string name="call">call</string>
+    <string name="name">Name</string>
+    <string name="e_mail">e-mail</string>
+    <string name="names">Name</string>
+    <string name="phone">phone</string>
+    <string name="send">send</string>
+
+</resources>
